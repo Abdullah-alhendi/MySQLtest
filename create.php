@@ -100,7 +100,7 @@ try {
 
     // Database connection
     $host = "localhost";
-    $dbname = "anas_test";
+    $dbname = "abdullah";
     $username = "root";
     $password = "";
 
